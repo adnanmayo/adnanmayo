@@ -3,7 +3,7 @@
 #### I'm a Full-Stack Developer.
 
 - 🏢 I'm a Full Stack Developer
-- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, 
+- ⚙️ I use daily: `.php`,`.ts` ,`.js`, `.html`, `.css`, 
 - 💬 Ping me about **NodeJs**, **PHP** ,**Laravel**, **development**, **ReactJS**, **Serverless**
 - 🌍 I'm mostly active within the **Laravel Community on StackOverflow**
 - 🌱 Learning all about **Open Source**
