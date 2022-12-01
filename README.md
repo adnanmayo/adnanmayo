@@ -10,5 +10,5 @@
 - 🎙 Currently Saving lives on  [Stackoverflow](https://stackoverflow.com/users/3949993/adnan-mumtaz)
 - ⚡️ Fun fact: I Love Cloud and Serverless technologies.
 - 📫 Reach me: [twitter.com/adnanmayo](https://twitter.com/adnanmayo)
-- 👨‍💼 Always Available adnanmumtaz(at)gmail.com 
+
 
